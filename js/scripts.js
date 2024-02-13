@@ -20,6 +20,6 @@ function mover() {
 }
 
 function redirect() {
-    window.open("https:wa.link/ihvaqq");
+    window.open("https://api.whatsapp.com/send?phone=5213325272089&text=Si%20quiero%20ser%20tu%20san%20valentin%20%F0%9F%A6%86%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5%F0%9F%A6%96");
     window.location.href = 'acepto.html';
 }
